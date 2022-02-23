@@ -6,5 +6,7 @@ case $random_num in
         ;;
       1)echo "feb"
         ;;
+      2)echo "march"
+        ;;
       *)echo "invalied input"
 esac
